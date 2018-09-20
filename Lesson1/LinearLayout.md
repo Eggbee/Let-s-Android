@@ -38,7 +38,8 @@
 
 ## LinearLayout을 사용해보자
 <pre><code>android:layout_width="match_parent"
-android:layout_height="0dp"        android:layout_weight="0.25"
+android:layout_height="0dp"        
+android:layout_weight="0.25"
 android:background="@android:color/darker_gray"/>
 </code></pre>
 
