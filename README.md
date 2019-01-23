@@ -7,3 +7,4 @@
 2. RelativeLayout
 3. ConstraintLayout
 4. Android 생명주기
+5. Kotlin
