@@ -9,3 +9,4 @@
 4. Android 생명주기
 5. Kotlin
 6. MVVM&Databinding
+7. RxJava
